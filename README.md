@@ -1,5 +1,5 @@
 # Introduction
-Search engines now really bloated with AI and other stuff, so I wanted to write my own one
+Search engines are now very bloated with AI and stuff, so I wanted to write my own one
 This is Simple Web Crawler which uses selenium to parse more data from the site
 
 # Instalation
