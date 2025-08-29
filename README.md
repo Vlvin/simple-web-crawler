@@ -29,5 +29,5 @@ python main.py $(cat gonna_crawl.txt)
 ```
 Warning: gonna_crawl.txt file will be overwritten on every interruption
 
-# Getting the results
+## Getting the results
 Crawler saves results in database.db file which is SQLite3 database
